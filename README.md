@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an experienced analytics professional with a demonstrated history of working in the management consulting industry. Skilled in R, SQL, Microsoft Excel, Statistical Modeling, and Image recognition. Used R Shiny to present the key highlights of analysis in an impressive in-browse dashboard. Strong business analytics professional with a Master’s Degree focused in Business Analytics and Data Science from Oklahoma State University and Bacheor's from Indian Institute of Technology, Roorkee.
+I'm an experienced analytics professional with a demonstrated history of working in the management consulting industry. Skilled in R, SQL, Microsoft Excel, Statistical Modeling, and Image recognition. Used R Shiny to present the key highlights of analysis in an impressive in-browse dashboard. Strong business analytics professional with a Master’s Degree focused in Business Analytics and Data Science from Oklahoma State University and Bachelor's from Indian Institute of Technology, Roorkee.
 
 <!--
 **prashant1100/prashant1100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
